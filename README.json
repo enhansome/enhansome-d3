@@ -1,0 +1,1804 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "plotly.js",
+          "description": "High level charting library [scatter, line, bar, pie, box plot, histogram, heatmap]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-09T16:31:10Z",
+            "owner": "plotly",
+            "repo": "plotly.js",
+            "stars": 18284
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vega",
+          "description": "A visualization grammar",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-12T18:38:48Z",
+            "owner": "vega",
+            "repo": "vega",
+            "stars": 11953
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "c3",
+          "description": "Reusable chart library [line, spline, step, area, stacked, bar, pie, donut]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-05T08:50:36Z",
+            "owner": "c3js",
+            "repo": "c3",
+            "stars": 9348
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dc.js",
+          "description": "For heavy amounts of data",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-07-31T16:01:22Z",
+            "owner": "dc-js",
+            "repo": "dc.js",
+            "stars": 7431
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "metrics-graphics",
+          "description": "Optimized for visualizing time-series data [line, scatter, area]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2022-05-31T15:05:59Z",
+            "owner": "metricsgraphics",
+            "repo": "metrics-graphics",
+            "stars": 7397
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nvd3",
+          "description": "Re-usable charts and chart components [box plot, buttlet, candlestick, line, bar, pie, scatter, sparkline]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-09-15T20:36:03Z",
+            "owner": "novus",
+            "repo": "nvd3",
+            "stars": 7226
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rickshaw",
+          "description": "Toolkit for creating interactive real-time graphs [line, scatter, bar]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-01-17T01:12:28Z",
+            "owner": "shutterstock",
+            "repo": "rickshaw",
+            "stars": 6508
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "billboard.js",
+          "description": "Re-usable chart library [bar, line, area, donut, pie, step, spline]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T00:47:22Z",
+            "owner": "naver",
+            "repo": "billboard.js",
+            "stars": 6005
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vega-lite",
+          "description": "A high-level grammar of interactive graphics",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T03:14:53Z",
+            "owner": "vega",
+            "repo": "vega-lite",
+            "stars": 5444
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cubism",
+          "description": "Time series visualization",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-04-01T04:55:15Z",
+            "owner": "square",
+            "repo": "cubism",
+            "stars": 4927
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "britecharts",
+          "description": "Client-side reusable charting library [bar, line, donut, sparkline, step]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-09-05T09:22:01Z",
+            "owner": "britecharts",
+            "repo": "britecharts",
+            "stars": 3720
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "plottable",
+          "description": "Flexible, interactive charts for the web [area, bar, line, pie, scatter, stacked]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-09-08T15:43:09Z",
+            "owner": "palantir",
+            "repo": "plottable",
+            "stars": 3108
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dagre-d3",
+          "description": "Layout directed graphs on the client-side",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-03-13T15:09:07Z",
+            "owner": "dagrejs",
+            "repo": "dagre-d3",
+            "stars": 2957
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mpld3",
+          "description": "Export matplotlib graphics to work in the Browser",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-01-02T01:42:47Z",
+            "owner": "mpld3",
+            "repo": "mpld3",
+            "stars": 2413
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WebCola",
+          "description": "Layout for graph visualization and exploration",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-04-30T00:52:25Z",
+            "owner": "tgdwyer",
+            "repo": "WebCola",
+            "stars": 2093
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "taucharts",
+          "description": "Charts with a focus on design and flexibility [line, bar, area, stacked]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-10-04T14:07:25Z",
+            "owner": "TargetProcess",
+            "repo": "tauCharts",
+            "stars": 1900
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "d3plus",
+          "description": "Extension library for easy creation of visualizations [scatter, stacked, line, bar, pie, network, bubble, box, map]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-17T15:36:08Z",
+            "owner": "d3plus",
+            "repo": "d3plus",
+            "stars": 1616
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "d3-dag",
+          "description": "Layout algorithms for visualizing directed acylic graphs",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-01T15:11:24Z",
+            "owner": "erikbrinkman",
+            "repo": "d3-dag",
+            "stars": 1515
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "neo4jd3",
+          "description": "Neo4j graph visualization",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-04-24T20:38:43Z",
+            "owner": "eisman",
+            "repo": "neo4jd3",
+            "stars": 1486
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "d3fc",
+          "description": "A collection of interactive chart components [line, bar, stacked, scatter, candlestick, ohlc]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2024-09-28T04:14:49Z",
+            "owner": "d3fc",
+            "repo": "d3fc",
+            "stars": 1349
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EventDrops",
+          "description": "A time based/event series interactive visualization",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-08-19T15:26:06Z",
+            "owner": "marmelab",
+            "repo": "EventDrops",
+            "stars": 1250
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "venn.js",
+          "description": "Area proportional Venn and Euler diagrams",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-01-16T06:21:00Z",
+            "owner": "benfred",
+            "repo": "venn.js",
+            "stars": 1091
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "d3-flame-graph",
+          "description": "Flame graphs from hierarchical data",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-04T03:27:10Z",
+            "owner": "spiermar",
+            "repo": "d3-flame-graph",
+            "stars": 978
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "chart-parts",
+          "description": "A flexible, React-friendly, Grammar of Graphics for data visualization",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2025-12-17T19:04:07Z",
+            "owner": "microsoft",
+            "repo": "chart-parts",
+            "stars": 604
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dTree",
+          "description": "Family tree library",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-05-14T09:32:56Z",
+            "owner": "ErikGartner",
+            "repo": "dTree",
+            "stars": 556
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "xkcdgraphs",
+          "description": "Xkcd style graphs [line]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-10-28T03:59:28Z",
+            "owner": "imkevinxu",
+            "repo": "xkcdgraphs",
+            "stars": 445
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "D4",
+          "description": "Re-usable charts DSL [bar, donut, line, scatter, stacked, waterfall]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-04-11T20:53:40Z",
+            "owner": "heavysixer",
+            "repo": "d4",
+            "stars": 429
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "d3pie",
+          "description": "A configurable pie chart lib and generator",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-09-21T10:49:38Z",
+            "owner": "benkeen",
+            "repo": "d3pie",
+            "stars": 370
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "d3-funnel",
+          "description": "A funnel and pyramid chart library",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-07T10:03:36Z",
+            "owner": "jakezatecky",
+            "repo": "d3-funnel",
+            "stars": 335
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "D3xter",
+          "description": "Straight forward plotting [plot, timeline, bar, histogram, pie]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-10-13T20:28:33Z",
+            "owner": "NathanEpstein",
+            "repo": "D3xter",
+            "stars": 335
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "visavail",
+          "description": "Time data availability visualization",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-12-05T07:42:19Z",
+            "owner": "flrs",
+            "repo": "visavail",
+            "stars": 313
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vizabi",
+          "description": "A framework for building visual data exploration tools [bubble, map, line, bar, sankey, donut]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-11-22T11:00:55Z",
+            "owner": "vizabi",
+            "repo": "vizabi",
+            "stars": 273
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "d3-heatmap",
+          "description": "Heatmap",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2016-06-03T20:58:46Z",
+            "owner": "tj",
+            "repo": "d3-heatmap",
+            "stars": 244
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vega-lite-api",
+          "description": "A JavaScript API for Vega-Lite.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-01T13:01:59Z",
+            "owner": "vega",
+            "repo": "vega-lite-api",
+            "stars": 219
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "d3-bar",
+          "description": "Bar chart",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-04-30T11:27:16Z",
+            "owner": "tj",
+            "repo": "d3-bar",
+            "stars": 174
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "micropolar",
+          "description": "A polar chart library",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-05-25T19:20:06Z",
+            "owner": "biovisualize",
+            "repo": "micropolar",
+            "stars": 125
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "d3-x3d",
+          "description": "Data Driven 3D Charts with D3 and X3D [bubble, bar, surfacearea, scatterplot, area]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-05-09T13:58:30Z",
+            "owner": "jamesleesaunders",
+            "repo": "d3-x3d",
+            "stars": 118
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "d3-gridding",
+          "description": "Chart mockups using grids",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-05-06T20:23:29Z",
+            "owner": "romsson",
+            "repo": "d3-gridding",
+            "stars": 104
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "d3-message-sequence",
+          "description": "A dynamic/static message sequence chart",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2018-06-21T08:00:14Z",
+            "owner": "koudelka",
+            "repo": "d3-message-sequence",
+            "stars": 102
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "d2b",
+          "description": "Chart library for axis, pie, sankey, sunburst charts",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-12-03T12:34:31Z",
+            "owner": "d2bjs",
+            "repo": "d2b",
+            "stars": 97
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "d3-ez",
+          "description": "Easy Reusable D3 Charts & Components [bar, donut, pie, bubble, rose, heatmap]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-01-28T12:46:21Z",
+            "owner": "jamesleesaunders",
+            "repo": "d3-ez",
+            "stars": 53
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "d3-beeswarm",
+          "description": "Plugin which computes a beeswarm arrangement",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-08-16T09:47:45Z",
+            "owner": "Kcnarf",
+            "repo": "d3-beeswarm",
+            "stars": 52
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "d3panels",
+          "description": "Interactive charts with linked brushing [dot, scatter, line, heatmap, histogram]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CoffeeScript",
+            "last_commit": "2026-06-19T11:56:16Z",
+            "owner": "kbroman",
+            "repo": "d3panels",
+            "stars": 27
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "d3-boxplot",
+          "description": "d3js box plot plugin",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-03-10T23:56:54Z",
+            "owner": "akngs",
+            "repo": "d3-boxplot",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "d3-upset",
+          "description": "Functions for plotting an UpSet plot [upset, bar, intersections, venn, relationships]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-06-09T23:30:09Z",
+            "owner": "chuntul",
+            "repo": "d3-upset",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "oecd-simple-charts",
+          "description": "Simple charting library [box plot, stacked bar, pearl chart]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-12-09T04:52:50Z",
+            "owner": "oecd-cyc",
+            "repo": "oecd-simple-charts",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "d3-bumps-chart",
+          "description": "Plugin for visualizing bumps charts",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-12-24T22:43:38Z",
+            "owner": "johnwalley",
+            "repo": "d3-bumps-chart",
+            "stars": 15
+          }
+        }
+      ],
+      "title": "Charts"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "recharts",
+          "description": "Re-designed charting library built with React",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T13:59:20Z",
+            "owner": "recharts",
+            "repo": "recharts",
+            "stars": 27495
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vx",
+          "description": "Visualization components for React [bar, line, scatter, stacked, area, pattern, heatmap, pie, radial, map, geo]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-06-22T14:25:22Z",
+            "owner": "airbnb",
+            "repo": "visx",
+            "stars": 21004
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nivo",
+          "description": "Dataviz components for React with isomorphic ability [bar, line, area, bubble, chord, heatmap]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-21T02:46:40Z",
+            "owner": "plouc",
+            "repo": "nivo",
+            "stars": 14082
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "victory",
+          "description": "Composable React components for building visualizations [area, bar, candlestick, pie, line, scatter, voronoi]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-12-19T23:11:18Z",
+            "owner": "FormidableLabs",
+            "repo": "victory",
+            "stars": 11243
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "react-vis",
+          "description": "A collection of react components to render visualizations [area, bar, heatmap, line, scatter]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-12-18T22:24:34Z",
+            "owner": "uber",
+            "repo": "react-vis",
+            "stars": 8786
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ngx-charts",
+          "description": "Chart framework for Angular [bar, pie, line, area, polar, stacked, bubble]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T02:44:33Z",
+            "owner": "swimlane",
+            "repo": "ngx-charts",
+            "stars": 4361
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "react-stockcharts",
+          "description": "Highly customizable stock charts [area, line, scatter, bubble, bar, stacked, candlestick]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-03-09T04:15:58Z",
+            "owner": "rrag",
+            "repo": "react-stockcharts",
+            "stars": 4018
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "semiotic",
+          "description": "A data visualization framework combining React & D3 [scatter, line, area]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T02:02:25Z",
+            "owner": "nteract",
+            "repo": "semiotic",
+            "stars": 2691
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Layer Cake",
+          "description": "A graphics framework built on top of Svelte.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Svelte",
+            "last_commit": "2026-08-11T16:45:22Z",
+            "owner": "mhkeller",
+            "repo": "layercake",
+            "stars": 1785
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "react-d3-components",
+          "description": "D3 Components [bar, stacked, scatter, line, area, pie]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-01-11T11:39:52Z",
+            "owner": "codesuki",
+            "repo": "react-d3-components",
+            "stars": 1616
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "react-d3-library",
+          "description": "Library to use D3 in React [area, bar, line, pie, scatter]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-03-04T22:07:06Z",
+            "owner": "react-d3-library",
+            "repo": "react-d3-library",
+            "stars": 1536
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "reaviz",
+          "description": "Data visualization library for React based on D3",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-10T14:40:32Z",
+            "owner": "reaviz",
+            "repo": "reaviz",
+            "stars": 1247
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "v-chart-plugin",
+          "description": "Easily bind a chart to the data stored in your Vue.js components.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-02-06T12:18:19Z",
+            "owner": "ignoreintuition",
+            "repo": "v-chart-plugin",
+            "stars": 195
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "potion",
+          "description": "Collection of React components for composing visualizations",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-04-19T19:32:18Z",
+            "owner": "finnfiddle",
+            "repo": "potion",
+            "stars": 184
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vs",
+          "description": "Declarative visualisation components for Vue.js [bar, line, area, pie, donut, stacked, sankey, timeline]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2020-10-21T13:13:41Z",
+            "owner": "0x8f701",
+            "repo": "Vs",
+            "stars": 162
+          }
+        }
+      ],
+      "title": "Third Party"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "datamaps",
+          "description": "Customizable map visualizations in one file",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-02-10T21:28:39Z",
+            "owner": "markmarkoh",
+            "repo": "datamaps",
+            "stars": 3799
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "d3-geo-projection",
+          "description": "Extended geographic projections",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-07-12T15:24:37Z",
+            "owner": "d3",
+            "repo": "d3-geo-projection",
+            "stars": 1153
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "d3-topogram",
+          "description": "Continuous area cartograms based on TopoJSON",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2023-04-14T23:48:10Z",
+            "owner": "shawnbot",
+            "repo": "topogram",
+            "stars": 329
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "d3-geo-voronoi",
+          "description": "Voronoi diagrams and Delaunay triangulation for the sphere",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-03-26T11:02:26Z",
+            "owner": "Fil",
+            "repo": "d3-geo-voronoi",
+            "stars": 277
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "d3.geo2rect",
+          "description": "Morphing geojson polygons into rectangles",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-01-07T10:35:14Z",
+            "owner": "sebastian-meier",
+            "repo": "d3.geo2rect",
+            "stars": 203
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "d3-geomap",
+          "description": "Library for creating geographic maps",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-10-22T18:28:56Z",
+            "owner": "yaph",
+            "repo": "d3-geomap",
+            "stars": 133
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "d3-geo-polygon",
+          "description": "Clipping and geometric operations for spherical polygons",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-24T16:35:09Z",
+            "owner": "d3",
+            "repo": "d3-geo-polygon",
+            "stars": 126
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mapmap.js",
+          "description": "A data-driven API for interactive thematic maps",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-10-16T06:32:54Z",
+            "owner": "floledermann",
+            "repo": "mapmap.js",
+            "stars": 114
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "simple-map-d3",
+          "description": "Easy choropleth style maps",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-02-07T16:44:57Z",
+            "owner": "MinnPost",
+            "repo": "simple-map-d3",
+            "stars": 113
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "d3-composite-projections",
+          "description": "Projections for showing countries' distant lands together",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-09-06T17:32:59Z",
+            "owner": "rveciana",
+            "repo": "d3-composite-projections",
+            "stars": 101
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "spam",
+          "description": "Create maps with D3 and Canvas, easily",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-09-29T23:46:35Z",
+            "owner": "newsappsio",
+            "repo": "spam",
+            "stars": 101
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "d3-exploder",
+          "description": "Lets you easily move and resize geographic features",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-10-01T17:46:11Z",
+            "owner": "bsouthga",
+            "repo": "d3-exploder",
+            "stars": 93
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "d3-inertia",
+          "description": "An extension to d3-drag that continues the mouse movement with some inertia",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-07-18T20:28:09Z",
+            "owner": "Fil",
+            "repo": "d3-inertia",
+            "stars": 66
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "maptable",
+          "description": "Convert datasets to a set of visual components (Map, Filters, Table)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-08T11:15:10Z",
+            "owner": "Packet-Clearing-House",
+            "repo": "maptable",
+            "stars": 62
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "d3-geo-scale-bar",
+          "description": "Displays automatic scale bars for projected geospatial data.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-03-02T12:53:23Z",
+            "owner": "HarryStevens",
+            "repo": "d3-geo-scale-bar",
+            "stars": 45
+          }
+        }
+      ],
+      "title": "Maps"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "react-simple-maps",
+          "description": "An SVG mapping component library for React, built on top of d3-geo [map, geo]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-08-08T15:53:29Z",
+            "owner": "zcreativelabs",
+            "repo": "react-simple-maps",
+            "stars": 3309
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "leaflet-d3",
+          "description": "Collection of plugins for using D3 with Leaflet [map, geo]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-11T10:36:26Z",
+            "owner": "bluehalo",
+            "repo": "leaflet-d3",
+            "stars": 270
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Wikimaps-D3js Atlas",
+          "description": "CLI to generate raster, topojson and svg maps [map, geo]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-10-14T09:55:23Z",
+            "owner": "WikimapsAtlas",
+            "repo": "WikimapsAtlas-generator",
+            "stars": 47
+          }
+        }
+      ],
+      "title": "Third Party"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "textures",
+          "description": "SVG patterns for data visualization",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-01-01T20:03:38Z",
+            "owner": "riccardoscalco",
+            "repo": "textures",
+            "stars": 6090
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "crossfilter",
+          "description": "Library for exploring large multivariate datasets",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-07-19T00:43:22Z",
+            "owner": "crossfilter",
+            "repo": "crossfilter",
+            "stars": 1756
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "d3-annotation",
+          "description": "Annotation helper with built-in annotation types",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-12-03T03:25:24Z",
+            "owner": "susielu",
+            "repo": "d3-annotation",
+            "stars": 763
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "d3-legend",
+          "description": "Legend helper",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-07-22T21:03:02Z",
+            "owner": "susielu",
+            "repo": "d3-legend",
+            "stars": 722
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "d3-jetpack",
+          "description": "Nifty convenience wrappers that speed up your daily work",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-01-08T21:43:57Z",
+            "owner": "gka",
+            "repo": "d3-jetpack",
+            "stars": 615
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "d3kit-timeline",
+          "description": "Timeline component that labels do not overlap",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-12-27T19:45:27Z",
+            "owner": "kristw",
+            "repo": "d3kit-timeline",
+            "stars": 384
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "d3-interpolate-path",
+          "description": "Interpolates paths with different number of points",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-01-07T04:11:44Z",
+            "owner": "pbeshai",
+            "repo": "d3-interpolate-path",
+            "stars": 343
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "d3-extended",
+          "description": "Extends d3 with some common jQuery functions",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-08-30T13:52:22Z",
+            "owner": "wbkd",
+            "repo": "d3-extended",
+            "stars": 271
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "d3-voronoi-treemap",
+          "description": "Computes a treemap based on a Voronoi tesselation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-09-26T21:18:33Z",
+            "owner": "Kcnarf",
+            "repo": "d3-voronoi-treemap",
+            "stars": 221
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "d3-scale-cluster",
+          "description": "Scale that clusters data into discrete groups",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-03-04T02:32:01Z",
+            "owner": "schnerd",
+            "repo": "d3-scale-cluster",
+            "stars": 133
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "swoopy-drag",
+          "description": "Artisanal label placement for d3 graphics",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2018-07-05T03:05:09Z",
+            "owner": "1wheel",
+            "repo": "swoopy-drag",
+            "stars": 122
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "d3-sparql",
+          "description": "Utility for accessing data from SPARQL Endpoints",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-05-10T08:00:54Z",
+            "owner": "zazuko",
+            "repo": "d3-sparql",
+            "stars": 121
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "d3-ring-note",
+          "description": "Plugin for placing circle and text annotations",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2016-05-25T00:18:19Z",
+            "owner": "armollica",
+            "repo": "d3-ring-note",
+            "stars": 111
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "d3-component",
+          "description": "Lightweight component abstraction",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-12-18T23:21:28Z",
+            "owner": "curran",
+            "repo": "d3-component",
+            "stars": 110
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "swoopyarrows",
+          "description": "Plugin to create swoopy arrows",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-05-02T20:09:22Z",
+            "owner": "bizweekgraphics",
+            "repo": "swoopyarrows",
+            "stars": 110
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "d3-loom",
+          "description": "Plugin to create a \"loom\" visualization",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-08-02T08:23:15Z",
+            "owner": "nbremer",
+            "repo": "d3-loom",
+            "stars": 93
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "d3-lasso",
+          "description": "Tag elements by drawing a line over or around objects",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-05-05T14:57:50Z",
+            "owner": "skokenes",
+            "repo": "d3-lasso",
+            "stars": 89
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "d3-iconarray",
+          "description": "A plug-in for aligning elements in grids",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-07-17T07:41:50Z",
+            "owner": "tomgp",
+            "repo": "d3-iconarray",
+            "stars": 85
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "d3-area-label",
+          "description": "A library for placing labels in areas",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-03-17T01:00:00Z",
+            "owner": "curran",
+            "repo": "d3-area-label",
+            "stars": 77
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "d3-peaks",
+          "description": "Find peaks in a noisy signal",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2016-03-25T03:05:39Z",
+            "owner": "efekarakus",
+            "repo": "d3-peaks",
+            "stars": 54
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "d3-history",
+          "description": "Proper URL bar history",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-11-29T08:01:28Z",
+            "owner": "vijithassar",
+            "repo": "d3-history",
+            "stars": 48
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "d3scription",
+          "description": "Tooltip with window edge collision detection",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2022-02-04T10:54:40Z",
+            "owner": "GlobalWebIndex",
+            "repo": "d3scription",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "d3-helpers",
+          "description": "Little utility functions",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-07-15T19:48:48Z",
+            "owner": "bahmutov",
+            "repo": "d3-helpers",
+            "stars": 26
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "d3-xray",
+          "description": "Bookmarklet that logs results of the data joins as you mouse over",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2017-04-27T07:00:48Z",
+            "owner": "vijithassar",
+            "repo": "d3-xray",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "d3-nelson-rules",
+          "description": "Apply nelsons rules of process control to a set of data",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-06-02T18:12:56Z",
+            "owner": "53seven",
+            "repo": "d3-nelson-rules",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "d3-tooltip",
+          "description": "Arrow shaped tooltip with shadows and dynamic content",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-03-13T09:28:38Z",
+            "owner": "bumbeishvili",
+            "repo": "d3-tooltip",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "d3-hsluv",
+          "description": "Human-friendly HSL (Hue, Saturation, Lightness) color space.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-08-06T21:13:56Z",
+            "owner": "petulla",
+            "repo": "d3-hsluv",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "d3-template",
+          "description": "Plugin to create and render templates using D3's data binding mechanism",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-05-23T13:22:24Z",
+            "owner": "ErikOnBike",
+            "repo": "d3-template",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "d3-breadcrumbs",
+          "description": "Simplifies breadcrumbs usage",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-12-03T14:23:14Z",
+            "owner": "bumbeishvili",
+            "repo": "d3-breadcrumbs",
+            "stars": 5
+          }
+        }
+      ],
+      "title": "Utils"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "mermaid",
+          "description": "Generation of diagrams and flowcharts from text in a markdown style",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T05:43:04Z",
+            "owner": "mermaid-js",
+            "repo": "mermaid",
+            "stars": 89720
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "d3-cloud",
+          "description": "Word clouds",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-03-09T14:06:48Z",
+            "owner": "jasondavies",
+            "repo": "d3-cloud",
+            "stars": 3945
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "codeflower",
+          "description": "Bird's eye view of the whole code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-09-23T09:03:36Z",
+            "owner": "fzaninotto",
+            "repo": "CodeFlower",
+            "stars": 709
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "graph-scroll",
+          "description": "Simple scrolling events",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2020-03-21T23:38:05Z",
+            "owner": "1wheel",
+            "repo": "graph-scroll",
+            "stars": 519
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "d3.sketchy",
+          "description": "Creates sketchy backgrounds, shapes and lines",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2015-08-03T10:33:37Z",
+            "owner": "sebastian-meier",
+            "repo": "d3.sketchy",
+            "stars": 247
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "twitter-sentiment-visualisation",
+          "description": "A series of D3.js charts showing realtime sentiment of Twitter data",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CoffeeScript",
+            "last_commit": "2023-11-04T11:58:40Z",
+            "owner": "lissy93",
+            "repo": "twitter-sentiment-visualisation",
+            "stars": 235
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "treeviz",
+          "description": "Create customizable trees from json data",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-04-03T19:05:28Z",
+            "owner": "PierreCapo",
+            "repo": "treeviz",
+            "stars": 171
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "d3-context-menu",
+          "description": "Helper to create context-menus",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2021-01-09T19:56:47Z",
+            "owner": "patorjk",
+            "repo": "d3-context-menu",
+            "stars": 138
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "d3-force-reuse",
+          "description": "Faster force-directed graph layouts by reusing force approximations",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-07-29T14:36:24Z",
+            "owner": "twosixlabs",
+            "repo": "d3-force-reuse",
+            "stars": 131
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "d3plus-text",
+          "description": "Smart SVG text box with line wrapping and automatic font scaling",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2024-03-26T15:22:13Z",
+            "owner": "d3plus",
+            "repo": "d3plus-text",
+            "stars": 114
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "chess-dataviz",
+          "description": "Chess dataviz library",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-05-06T16:30:12Z",
+            "owner": "ebemunk",
+            "repo": "chess-dataviz",
+            "stars": 82
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "d3-force-sampled",
+          "description": "Super fast, linear-time force-directed graph layouts by Random Vertex Sampling",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-02-18T22:30:09Z",
+            "owner": "twosixlabs",
+            "repo": "d3-force-sampled",
+            "stars": 53
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "d3-force-gravity",
+          "description": "Implement gravitational attraction (or force-field-like repulsion)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2016-08-12T14:26:49Z",
+            "owner": "sohamkamani",
+            "repo": "d3-force-gravity",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "netvis",
+          "description": "Visualize network communication for arbitrary protocols",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2015-02-20T03:59:13Z",
+            "owner": "dborzov",
+            "repo": "netvis",
+            "stars": 17
+          }
+        }
+      ],
+      "title": "Miscellaneous"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "d3-node",
+          "description": "Static chart and map generation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-05-03T01:04:30Z",
+            "owner": "d3-node",
+            "repo": "d3-node",
+            "stars": 686
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Kyrix",
+          "description": "Interactive pan/zoom Visualizations with automatic server-side scaling support.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-06-22T17:15:54Z",
+            "owner": "tracyhenry",
+            "repo": "Kyrix",
+            "stars": 153
+          }
+        }
+      ],
+      "title": "Server side"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T06:07:06.631Z",
+    "original_repository": "wbkd/awesome-d3",
+    "original_repository_sha": "7e2e86467e7d18805b123ec1fda9ad8d2799f108",
+    "enhanced_repository": "enhansome/enhansome-d3",
+    "enhanced_repository_description": null,
+    "title": "Awesome D3 with stars"
+  }
+}
