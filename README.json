@@ -14,7 +14,7 @@
             "last_commit": "2026-08-14T17:35:35Z",
             "owner": "plotly",
             "repo": "plotly.js",
-            "stars": 18290
+            "stars": 18291
           }
         },
         {
@@ -28,7 +28,7 @@
             "last_commit": "2026-08-14T17:19:30Z",
             "owner": "vega",
             "repo": "vega",
-            "stars": 11957
+            "stars": 11958
           }
         },
         {
@@ -84,7 +84,7 @@
             "last_commit": "2023-09-15T20:36:03Z",
             "owner": "novus",
             "repo": "nvd3",
-            "stars": 7226
+            "stars": 7227
           }
         },
         {
@@ -112,7 +112,7 @@
             "last_commit": "2026-08-13T00:47:22Z",
             "owner": "naver",
             "repo": "billboard.js",
-            "stars": 6006
+            "stars": 6007
           }
         },
         {
@@ -126,7 +126,7 @@
             "last_commit": "2026-08-14T18:03:49Z",
             "owner": "vega",
             "repo": "vega-lite",
-            "stars": 5447
+            "stars": 5448
           }
         },
         {
@@ -140,7 +140,7 @@
             "last_commit": "2025-04-01T04:55:15Z",
             "owner": "square",
             "repo": "cubism",
-            "stars": 4927
+            "stars": 4928
           }
         },
         {
@@ -196,7 +196,7 @@
             "last_commit": "2026-01-02T01:42:47Z",
             "owner": "mpld3",
             "repo": "mpld3",
-            "stars": 2413
+            "stars": 2414
           }
         },
         {
@@ -294,7 +294,7 @@
             "last_commit": "2024-08-19T15:26:06Z",
             "owner": "marmelab",
             "repo": "EventDrops",
-            "stars": 1250
+            "stars": 1251
           }
         },
         {
@@ -678,7 +678,7 @@
             "last_commit": "2026-08-12T13:59:20Z",
             "owner": "recharts",
             "repo": "recharts",
-            "stars": 27502
+            "stars": 27505
           }
         },
         {
@@ -720,7 +720,7 @@
             "last_commit": "2025-12-19T23:11:18Z",
             "owner": "FormidableLabs",
             "repo": "victory",
-            "stars": 11243
+            "stars": 11244
           }
         },
         {
@@ -773,7 +773,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T13:58:29Z",
+            "last_commit": "2026-08-15T23:30:43Z",
             "owner": "nteract",
             "repo": "semiotic",
             "stars": 2691
@@ -908,7 +908,7 @@
             "last_commit": "2023-07-12T15:24:37Z",
             "owner": "d3",
             "repo": "d3-geo-projection",
-            "stars": 1152
+            "stars": 1153
           }
         },
         {
@@ -1567,10 +1567,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-15T04:22:39Z",
+            "last_commit": "2026-08-16T04:14:10Z",
             "owner": "mermaid-js",
             "repo": "mermaid",
-            "stars": 89768
+            "stars": 89787
           }
         },
         {
@@ -1786,7 +1786,7 @@
             "last_commit": "2023-06-22T17:15:54Z",
             "owner": "tracyhenry",
             "repo": "Kyrix",
-            "stars": 153
+            "stars": 154
           }
         }
       ],
@@ -1794,7 +1794,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T05:03:18.594Z",
+    "last_updated": "2026-08-16T05:12:25.986Z",
     "original_repository": "wbkd/awesome-d3",
     "original_repository_sha": "7e2e86467e7d18805b123ec1fda9ad8d2799f108",
     "enhanced_repository": "enhansome/enhansome-d3",
