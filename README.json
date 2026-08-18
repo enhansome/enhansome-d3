@@ -11,10 +11,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-14T17:35:35Z",
+            "last_commit": "2026-08-17T22:27:30Z",
             "owner": "plotly",
             "repo": "plotly.js",
-            "stars": 18293
+            "stars": 18294
           }
         },
         {
@@ -42,7 +42,7 @@
             "last_commit": "2026-08-05T08:50:36Z",
             "owner": "c3js",
             "repo": "c3",
-            "stars": 9349
+            "stars": 9347
           }
         },
         {
@@ -56,7 +56,7 @@
             "last_commit": "2024-07-31T16:01:22Z",
             "owner": "dc-js",
             "repo": "dc.js",
-            "stars": 7430
+            "stars": 7431
           }
         },
         {
@@ -84,7 +84,7 @@
             "last_commit": "2023-09-15T20:36:03Z",
             "owner": "novus",
             "repo": "nvd3",
-            "stars": 7225
+            "stars": 7226
           }
         },
         {
@@ -109,7 +109,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T00:47:22Z",
+            "last_commit": "2026-08-18T00:55:27Z",
             "owner": "naver",
             "repo": "billboard.js",
             "stars": 6007
@@ -126,7 +126,7 @@
             "last_commit": "2026-08-16T18:43:36Z",
             "owner": "vega",
             "repo": "vega-lite",
-            "stars": 5451
+            "stars": 5455
           }
         },
         {
@@ -266,7 +266,7 @@
             "last_commit": "2021-04-24T20:38:43Z",
             "owner": "eisman",
             "repo": "neo4jd3",
-            "stars": 1486
+            "stars": 1487
           }
         },
         {
@@ -294,7 +294,7 @@
             "last_commit": "2024-08-19T15:26:06Z",
             "owner": "marmelab",
             "repo": "EventDrops",
-            "stars": 1251
+            "stars": 1252
           }
         },
         {
@@ -675,10 +675,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-16T22:15:45Z",
+            "last_commit": "2026-08-18T05:07:09Z",
             "owner": "recharts",
             "repo": "recharts",
-            "stars": 27506
+            "stars": 27503
           }
         },
         {
@@ -692,7 +692,7 @@
             "last_commit": "2026-06-22T14:25:22Z",
             "owner": "airbnb",
             "repo": "visx",
-            "stars": 21008
+            "stars": 21007
           }
         },
         {
@@ -734,7 +734,7 @@
             "last_commit": "2024-12-18T22:24:34Z",
             "owner": "uber",
             "repo": "react-vis",
-            "stars": 8786
+            "stars": 8784
           }
         },
         {
@@ -773,7 +773,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-16T22:09:40Z",
+            "last_commit": "2026-08-18T04:46:31Z",
             "owner": "nteract",
             "repo": "semiotic",
             "stars": 2691
@@ -1186,7 +1186,7 @@
             "last_commit": "2022-12-03T03:25:24Z",
             "owner": "susielu",
             "repo": "d3-annotation",
-            "stars": 763
+            "stars": 762
           }
         },
         {
@@ -1567,10 +1567,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-17T04:22:15Z",
+            "last_commit": "2026-08-18T04:45:48Z",
             "owner": "mermaid-js",
             "repo": "mermaid",
-            "stars": 89798
+            "stars": 89815
           }
         },
         {
@@ -1794,7 +1794,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T05:21:58.586Z",
+    "last_updated": "2026-08-18T05:14:08.984Z",
     "original_repository": "wbkd/awesome-d3",
     "original_repository_sha": "7e2e86467e7d18805b123ec1fda9ad8d2799f108",
     "enhanced_repository": "enhansome/enhansome-d3",
