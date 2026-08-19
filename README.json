@@ -11,7 +11,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-17T22:27:30Z",
+            "last_commit": "2026-08-18T23:17:02Z",
             "owner": "plotly",
             "repo": "plotly.js",
             "stars": 18294
@@ -28,7 +28,7 @@
             "last_commit": "2026-08-14T17:19:30Z",
             "owner": "vega",
             "repo": "vega",
-            "stars": 11960
+            "stars": 11964
           }
         },
         {
@@ -42,7 +42,7 @@
             "last_commit": "2026-08-05T08:50:36Z",
             "owner": "c3js",
             "repo": "c3",
-            "stars": 9347
+            "stars": 9346
           }
         },
         {
@@ -56,7 +56,7 @@
             "last_commit": "2024-07-31T16:01:22Z",
             "owner": "dc-js",
             "repo": "dc.js",
-            "stars": 7431
+            "stars": 7430
           }
         },
         {
@@ -70,7 +70,7 @@
             "last_commit": "2022-05-31T15:05:59Z",
             "owner": "metricsgraphics",
             "repo": "metrics-graphics",
-            "stars": 7397
+            "stars": 7395
           }
         },
         {
@@ -98,7 +98,7 @@
             "last_commit": "2025-01-17T01:12:28Z",
             "owner": "shutterstock",
             "repo": "rickshaw",
-            "stars": 6508
+            "stars": 6507
           }
         },
         {
@@ -112,7 +112,7 @@
             "last_commit": "2026-08-18T00:55:27Z",
             "owner": "naver",
             "repo": "billboard.js",
-            "stars": 6007
+            "stars": 6008
           }
         },
         {
@@ -123,7 +123,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-16T18:43:36Z",
+            "last_commit": "2026-08-18T20:33:00Z",
             "owner": "vega",
             "repo": "vega-lite",
             "stars": 5455
@@ -210,7 +210,7 @@
             "last_commit": "2026-04-30T00:52:25Z",
             "owner": "tgdwyer",
             "repo": "WebCola",
-            "stars": 2094
+            "stars": 2095
           }
         },
         {
@@ -252,7 +252,7 @@
             "last_commit": "2026-08-01T15:11:24Z",
             "owner": "erikbrinkman",
             "repo": "d3-dag",
-            "stars": 1515
+            "stars": 1516
           }
         },
         {
@@ -560,7 +560,7 @@
             "last_commit": "2022-12-03T12:34:31Z",
             "owner": "d2bjs",
             "repo": "d2b",
-            "stars": 97
+            "stars": 96
           }
         },
         {
@@ -675,10 +675,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T05:07:09Z",
+            "last_commit": "2026-08-18T15:57:16Z",
             "owner": "recharts",
             "repo": "recharts",
-            "stars": 27503
+            "stars": 27508
           }
         },
         {
@@ -773,7 +773,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T04:46:31Z",
+            "last_commit": "2026-08-18T22:35:19Z",
             "owner": "nteract",
             "repo": "semiotic",
             "stars": 2691
@@ -818,7 +818,7 @@
             "last_commit": "2021-03-04T22:07:06Z",
             "owner": "react-d3-library",
             "repo": "react-d3-library",
-            "stars": 1536
+            "stars": 1535
           }
         },
         {
@@ -832,7 +832,7 @@
             "last_commit": "2026-08-10T14:40:32Z",
             "owner": "reaviz",
             "repo": "reaviz",
-            "stars": 1248
+            "stars": 1249
           }
         },
         {
@@ -1172,7 +1172,7 @@
             "last_commit": "2023-07-19T00:43:22Z",
             "owner": "crossfilter",
             "repo": "crossfilter",
-            "stars": 1756
+            "stars": 1757
           }
         },
         {
@@ -1567,10 +1567,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T04:45:48Z",
+            "last_commit": "2026-08-19T04:47:53Z",
             "owner": "mermaid-js",
             "repo": "mermaid",
-            "stars": 89815
+            "stars": 89836
           }
         },
         {
@@ -1794,7 +1794,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T05:14:08.984Z",
+    "last_updated": "2026-08-19T05:14:44.594Z",
     "original_repository": "wbkd/awesome-d3",
     "original_repository_sha": "7e2e86467e7d18805b123ec1fda9ad8d2799f108",
     "enhanced_repository": "enhansome/enhansome-d3",
