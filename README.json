@@ -12,10 +12,10 @@
             "archived": false,
             "id": 45646037,
             "language": "JavaScript",
-            "last_commit": "2026-08-18T23:17:02Z",
+            "last_commit": "2026-08-19T22:47:53Z",
             "owner": "plotly",
             "repo": "plotly.js",
-            "stars": 18295
+            "stars": 18296
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-14T17:19:30Z",
             "owner": "vega",
             "repo": "vega",
-            "stars": 11964
+            "stars": 11965
           }
         },
         {
@@ -132,10 +132,10 @@
             "archived": false,
             "id": 26931359,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T20:33:00Z",
+            "last_commit": "2026-08-19T21:32:15Z",
             "owner": "vega",
             "repo": "vega-lite",
-            "stars": 5455
+            "stars": 5456
           }
         },
         {
@@ -719,10 +719,10 @@
                 "archived": false,
                 "id": 40345658,
                 "language": "TypeScript",
-                "last_commit": "2026-08-19T12:18:53Z",
+                "last_commit": "2026-08-19T20:56:00Z",
                 "owner": "recharts",
                 "repo": "recharts",
-                "stars": 27508
+                "stars": 27510
               }
             },
             {
@@ -824,7 +824,7 @@
                 "archived": false,
                 "id": 85225460,
                 "language": "TypeScript",
-                "last_commit": "2026-08-18T22:35:19Z",
+                "last_commit": "2026-08-20T03:37:39Z",
                 "owner": "nteract",
                 "repo": "semiotic",
                 "stars": 2691
@@ -1679,10 +1679,10 @@
             "archived": false,
             "id": 26066727,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T12:18:22Z",
+            "last_commit": "2026-08-20T04:46:32Z",
             "owner": "mermaid-js",
             "repo": "mermaid",
-            "stars": 89842
+            "stars": 89850
           }
         },
         {
@@ -1712,7 +1712,7 @@
             "last_commit": "2025-09-23T09:03:36Z",
             "owner": "fzaninotto",
             "repo": "CodeFlower",
-            "stars": 709
+            "stars": 710
           }
         },
         {
@@ -1921,7 +1921,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:22:21.843Z",
+    "last_updated": "2026-08-20T05:16:22.158Z",
     "original_repository": "wbkd/awesome-d3",
     "original_repository_id": 35890808,
     "original_repository_sha": "7e2e86467e7d18805b123ec1fda9ad8d2799f108",
