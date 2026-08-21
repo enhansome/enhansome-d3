@@ -12,10 +12,10 @@
             "archived": false,
             "id": 45646037,
             "language": "JavaScript",
-            "last_commit": "2026-08-19T22:47:53Z",
+            "last_commit": "2026-08-20T14:13:58Z",
             "owner": "plotly",
             "repo": "plotly.js",
-            "stars": 18296
+            "stars": 18297
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-14T17:19:30Z",
             "owner": "vega",
             "repo": "vega",
-            "stars": 11965
+            "stars": 11964
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2024-07-31T16:01:22Z",
             "owner": "dc-js",
             "repo": "dc.js",
-            "stars": 7430
+            "stars": 7431
           }
         },
         {
@@ -105,7 +105,7 @@
             "last_commit": "2025-01-17T01:12:28Z",
             "owner": "shutterstock",
             "repo": "rickshaw",
-            "stars": 6507
+            "stars": 6506
           }
         },
         {
@@ -135,7 +135,7 @@
             "last_commit": "2026-08-19T21:32:15Z",
             "owner": "vega",
             "repo": "vega-lite",
-            "stars": 5456
+            "stars": 5459
           }
         },
         {
@@ -180,7 +180,7 @@
             "last_commit": "2025-09-08T15:43:09Z",
             "owner": "palantir",
             "repo": "plottable",
-            "stars": 3109
+            "stars": 3108
           }
         },
         {
@@ -240,7 +240,7 @@
             "last_commit": "2023-10-04T14:07:25Z",
             "owner": "TargetProcess",
             "repo": "tauCharts",
-            "stars": 1900
+            "stars": 1898
           }
         },
         {
@@ -719,10 +719,10 @@
                 "archived": false,
                 "id": 40345658,
                 "language": "TypeScript",
-                "last_commit": "2026-08-19T20:56:00Z",
+                "last_commit": "2026-08-20T19:03:51Z",
                 "owner": "recharts",
                 "repo": "recharts",
-                "stars": 27510
+                "stars": 27511
               }
             },
             {
@@ -737,7 +737,7 @@
                 "last_commit": "2026-06-22T14:25:22Z",
                 "owner": "airbnb",
                 "repo": "visx",
-                "stars": 21007
+                "stars": 21012
               }
             },
             {
@@ -752,7 +752,7 @@
                 "last_commit": "2026-07-21T02:46:40Z",
                 "owner": "plouc",
                 "repo": "nivo",
-                "stars": 14085
+                "stars": 14084
               }
             },
             {
@@ -767,7 +767,7 @@
                 "last_commit": "2025-12-19T23:11:18Z",
                 "owner": "FormidableLabs",
                 "repo": "victory",
-                "stars": 11241
+                "stars": 11240
               }
             },
             {
@@ -782,7 +782,7 @@
                 "last_commit": "2024-12-18T22:24:34Z",
                 "owner": "uber",
                 "repo": "react-vis",
-                "stars": 8784
+                "stars": 8786
               }
             },
             {
@@ -824,7 +824,7 @@
                 "archived": false,
                 "id": 85225460,
                 "language": "TypeScript",
-                "last_commit": "2026-08-20T03:37:39Z",
+                "last_commit": "2026-08-21T04:54:57Z",
                 "owner": "nteract",
                 "repo": "semiotic",
                 "stars": 2691
@@ -842,7 +842,7 @@
                 "last_commit": "2026-08-11T16:45:22Z",
                 "owner": "mhkeller",
                 "repo": "layercake",
-                "stars": 1787
+                "stars": 1788
               }
             },
             {
@@ -1003,7 +1003,7 @@
             "last_commit": "2026-03-26T11:02:26Z",
             "owner": "Fil",
             "repo": "d3-geo-voronoi",
-            "stars": 277
+            "stars": 276
           }
         },
         {
@@ -1241,7 +1241,7 @@
             "last_commit": "2023-01-01T20:03:38Z",
             "owner": "riccardoscalco",
             "repo": "textures",
-            "stars": 6091
+            "stars": 6090
           }
         },
         {
@@ -1679,10 +1679,10 @@
             "archived": false,
             "id": 26066727,
             "language": "TypeScript",
-            "last_commit": "2026-08-20T04:46:32Z",
+            "last_commit": "2026-08-20T16:53:46Z",
             "owner": "mermaid-js",
             "repo": "mermaid",
-            "stars": 89850
+            "stars": 89864
           }
         },
         {
@@ -1921,7 +1921,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T05:16:22.158Z",
+    "last_updated": "2026-08-21T05:16:55.430Z",
     "original_repository": "wbkd/awesome-d3",
     "original_repository_id": 35890808,
     "original_repository_sha": "7e2e86467e7d18805b123ec1fda9ad8d2799f108",
