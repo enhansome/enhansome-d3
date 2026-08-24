@@ -15,7 +15,7 @@
             "last_commit": "2026-08-22T22:59:53Z",
             "owner": "plotly",
             "repo": "plotly.js",
-            "stars": 18296
+            "stars": 18298
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-22T20:30:39Z",
             "owner": "vega",
             "repo": "vega",
-            "stars": 11967
+            "stars": 11968
           }
         },
         {
@@ -135,7 +135,7 @@
             "last_commit": "2026-08-19T21:32:15Z",
             "owner": "vega",
             "repo": "vega-lite",
-            "stars": 5459
+            "stars": 5461
           }
         },
         {
@@ -719,10 +719,10 @@
                 "archived": false,
                 "id": 40345658,
                 "language": "TypeScript",
-                "last_commit": "2026-08-22T19:21:17Z",
+                "last_commit": "2026-08-24T05:20:57Z",
                 "owner": "recharts",
                 "repo": "recharts",
-                "stars": 27516
+                "stars": 27515
               }
             },
             {
@@ -737,7 +737,7 @@
                 "last_commit": "2026-06-22T14:25:22Z",
                 "owner": "airbnb",
                 "repo": "visx",
-                "stars": 21017
+                "stars": 21019
               }
             },
             {
@@ -767,7 +767,7 @@
                 "last_commit": "2025-12-19T23:11:18Z",
                 "owner": "FormidableLabs",
                 "repo": "victory",
-                "stars": 11240
+                "stars": 11241
               }
             },
             {
@@ -782,7 +782,7 @@
                 "last_commit": "2024-12-18T22:24:34Z",
                 "owner": "uber",
                 "repo": "react-vis",
-                "stars": 8787
+                "stars": 8788
               }
             },
             {
@@ -824,7 +824,7 @@
                 "archived": false,
                 "id": 85225460,
                 "language": "TypeScript",
-                "last_commit": "2026-08-23T04:38:22Z",
+                "last_commit": "2026-08-24T02:35:35Z",
                 "owner": "nteract",
                 "repo": "semiotic",
                 "stars": 2691
@@ -839,7 +839,7 @@
                 "archived": false,
                 "id": 141244256,
                 "language": "Svelte",
-                "last_commit": "2026-08-22T00:13:57Z",
+                "last_commit": "2026-08-23T18:45:53Z",
                 "owner": "mhkeller",
                 "repo": "layercake",
                 "stars": 1789
@@ -958,7 +958,7 @@
             "last_commit": "2026-02-10T21:28:39Z",
             "owner": "markmarkoh",
             "repo": "datamaps",
-            "stars": 3800
+            "stars": 3799
           }
         },
         {
@@ -1185,7 +1185,7 @@
                 "last_commit": "2024-08-08T15:53:29Z",
                 "owner": "zcreativelabs",
                 "repo": "react-simple-maps",
-                "stars": 3308
+                "stars": 3310
               }
             },
             {
@@ -1682,7 +1682,7 @@
             "last_commit": "2026-08-21T14:16:08Z",
             "owner": "mermaid-js",
             "repo": "mermaid",
-            "stars": 89894
+            "stars": 89911
           }
         },
         {
@@ -1697,7 +1697,7 @@
             "last_commit": "2026-03-09T14:06:48Z",
             "owner": "jasondavies",
             "repo": "d3-cloud",
-            "stars": 3947
+            "stars": 3948
           }
         },
         {
@@ -1772,7 +1772,7 @@
             "last_commit": "2024-04-03T19:05:28Z",
             "owner": "PierreCapo",
             "repo": "treeviz",
-            "stars": 172
+            "stars": 173
           }
         },
         {
@@ -1921,7 +1921,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T05:13:52.860Z",
+    "last_updated": "2026-08-24T05:25:04.100Z",
     "original_repository": "wbkd/awesome-d3",
     "original_repository_id": 35890808,
     "original_repository_sha": "7e2e86467e7d18805b123ec1fda9ad8d2799f108",
