@@ -824,7 +824,7 @@
                 "archived": false,
                 "id": 85225460,
                 "language": "TypeScript",
-                "last_commit": "2026-08-25T04:44:16Z",
+                "last_commit": "2026-08-25T05:22:27Z",
                 "owner": "nteract",
                 "repo": "semiotic",
                 "stars": 2691
@@ -1679,7 +1679,7 @@
             "archived": false,
             "id": 26066727,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T18:45:40Z",
+            "last_commit": "2026-08-25T05:41:52Z",
             "owner": "mermaid-js",
             "repo": "mermaid",
             "stars": 89934
@@ -1921,7 +1921,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T05:18:06.121Z",
+    "last_updated": "2026-08-25T05:47:57.414Z",
     "original_repository": "wbkd/awesome-d3",
     "original_repository_id": 35890808,
     "original_repository_sha": "7e2e86467e7d18805b123ec1fda9ad8d2799f108",
