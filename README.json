@@ -19,7 +19,7 @@
             "open_issues": 772,
             "owner": "plotly",
             "repo": "plotly.js",
-            "stars": 18306,
+            "stars": 18305,
             "topics": [
               "charting-library",
               "charts",
@@ -1212,7 +1212,7 @@
                 "open_issues": 148,
                 "owner": "airbnb",
                 "repo": "visx",
-                "stars": 21027,
+                "stars": 21028,
                 "topics": [
                   "chart",
                   "d3",
@@ -1375,7 +1375,7 @@
                 "language": "TypeScript",
                 "license": "Apache-2.0",
                 "last_commit": "2026-08-27T11:39:57Z",
-                "open_issues": 39,
+                "open_issues": 40,
                 "owner": "nteract",
                 "repo": "semiotic",
                 "stars": 2691,
@@ -2731,10 +2731,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-08-28T20:19:25Z",
-            "open_issues": 1751,
+            "open_issues": 1752,
             "owner": "mermaid-js",
             "repo": "mermaid",
-            "stars": 89974,
+            "stars": 89975,
             "topics": [
               "diagrams",
               "diagrams-as-code",
@@ -3119,7 +3119,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:16:21.208Z",
+    "last_updated": "2026-08-29T11:22:06.726Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of D3 libraries, plugins and utilities",
