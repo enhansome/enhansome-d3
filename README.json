@@ -15,11 +15,11 @@
             "id": 45646037,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-08-30T18:48:16Z",
-            "open_issues": 765,
+            "last_commit": "2026-08-31T22:19:19Z",
+            "open_issues": 767,
             "owner": "plotly",
             "repo": "plotly.js",
-            "stars": 18310,
+            "stars": 18312,
             "topics": [
               "charting-library",
               "charts",
@@ -50,7 +50,7 @@
             "open_issues": 471,
             "owner": "vega",
             "repo": "vega",
-            "stars": 11979,
+            "stars": 11981,
             "topics": [
               "canvas",
               "d3",
@@ -153,7 +153,7 @@
             "open_issues": 565,
             "owner": "novus",
             "repo": "nvd3",
-            "stars": 7228,
+            "stars": 7230,
             "topics": []
           },
           "first_seen": "2026-08-28T16:56:55.200Z"
@@ -198,8 +198,8 @@
             "id": 93701214,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-08-25T11:25:29Z",
-            "open_issues": 148,
+            "last_commit": "2026-09-01T02:50:41Z",
+            "open_issues": 149,
             "owner": "naver",
             "repo": "billboard.js",
             "stars": 6007,
@@ -230,7 +230,7 @@
             "open_issues": 818,
             "owner": "vega",
             "repo": "vega-lite",
-            "stars": 5466,
+            "stars": 5467,
             "topics": [
               "charts",
               "declarative-language",
@@ -312,7 +312,7 @@
             "open_issues": 330,
             "owner": "palantir",
             "repo": "plottable",
-            "stars": 3110,
+            "stars": 3112,
             "topics": [
               "chart",
               "chart-component",
@@ -428,7 +428,7 @@
             "open_issues": 108,
             "owner": "d3plus",
             "repo": "d3plus",
-            "stars": 1616,
+            "stars": 1615,
             "topics": []
           },
           "first_seen": "2026-08-28T16:56:55.200Z"
@@ -1176,8 +1176,8 @@
                 "id": 40345658,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-08-28T18:26:29Z",
-                "open_issues": 442,
+                "last_commit": "2026-09-01T07:41:13Z",
+                "open_issues": 440,
                 "owner": "recharts",
                 "repo": "recharts",
                 "stars": 27528,
@@ -1212,7 +1212,7 @@
                 "open_issues": 148,
                 "owner": "airbnb",
                 "repo": "visx",
-                "stars": 21028,
+                "stars": 21032,
                 "topics": [
                   "chart",
                   "d3",
@@ -1298,7 +1298,7 @@
                 "open_issues": 343,
                 "owner": "uber",
                 "repo": "react-vis",
-                "stars": 8789,
+                "stars": 8788,
                 "topics": [
                   "chart",
                   "charting-library",
@@ -1374,8 +1374,8 @@
                 "id": 85225460,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-30T22:04:47Z",
-                "open_issues": 40,
+                "last_commit": "2026-09-01T02:17:19Z",
+                "open_issues": 38,
                 "owner": "nteract",
                 "repo": "semiotic",
                 "stars": 2691,
@@ -1403,7 +1403,7 @@
                 "id": 141244256,
                 "language": "Svelte",
                 "license": "MIT",
-                "last_commit": "2026-08-23T18:45:53Z",
+                "last_commit": "2026-09-01T06:55:50Z",
                 "open_issues": 8,
                 "owner": "mhkeller",
                 "repo": "layercake",
@@ -1628,7 +1628,7 @@
             "open_issues": 229,
             "owner": "markmarkoh",
             "repo": "datamaps",
-            "stars": 3799,
+            "stars": 3798,
             "topics": []
           },
           "first_seen": "2026-08-28T16:56:55.200Z"
@@ -2067,7 +2067,7 @@
             "open_issues": 21,
             "owner": "riccardoscalco",
             "repo": "textures",
-            "stars": 6091,
+            "stars": 6092,
             "topics": [
               "d3",
               "patterns",
@@ -2730,11 +2730,11 @@
             "id": 26066727,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-08-31T11:04:15Z",
-            "open_issues": 1758,
+            "last_commit": "2026-09-01T07:46:16Z",
+            "open_issues": 1762,
             "owner": "mermaid-js",
             "repo": "mermaid",
-            "stars": 90002,
+            "stars": 90022,
             "topics": [
               "diagrams",
               "diagrams-as-code",
@@ -3075,7 +3075,7 @@
             "open_issues": 3,
             "owner": "d3-node",
             "repo": "d3-node",
-            "stars": 686,
+            "stars": 685,
             "topics": [
               "d3",
               "data-visualization",
@@ -3119,7 +3119,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T11:09:32.536Z",
+    "last_updated": "2026-09-01T09:36:36.755Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of D3 libraries, plugins and utilities",
