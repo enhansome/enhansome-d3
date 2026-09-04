@@ -15,8 +15,8 @@
             "id": 45646037,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-03T02:52:17Z",
-            "open_issues": 771,
+            "last_commit": "2026-09-03T19:35:45Z",
+            "open_issues": 772,
             "owner": "plotly",
             "repo": "plotly.js",
             "stars": 18316,
@@ -50,7 +50,7 @@
             "open_issues": 469,
             "owner": "vega",
             "repo": "vega",
-            "stars": 11982,
+            "stars": 11983,
             "topics": [
               "canvas",
               "d3",
@@ -78,7 +78,7 @@
             "open_issues": 771,
             "owner": "c3js",
             "repo": "c3",
-            "stars": 9350,
+            "stars": 9349,
             "topics": [
               "chart",
               "d3",
@@ -202,7 +202,7 @@
             "open_issues": 148,
             "owner": "naver",
             "repo": "billboard.js",
-            "stars": 6007,
+            "stars": 6008,
             "topics": [
               "canvas",
               "charting-library",
@@ -365,7 +365,7 @@
             "open_issues": 232,
             "owner": "mpld3",
             "repo": "mpld3",
-            "stars": 2412,
+            "stars": 2411,
             "topics": []
           },
           "first_seen": "2026-08-28T16:56:55.200Z"
@@ -831,7 +831,7 @@
             "id": 177215911,
             "language": "JavaScript",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-07-01T13:01:59Z",
+            "last_commit": "2026-09-03T12:37:25Z",
             "open_issues": 14,
             "owner": "vega",
             "repo": "vega-lite-api",
@@ -1176,11 +1176,11 @@
                 "id": 40345658,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-03T00:29:10Z",
-                "open_issues": 447,
+                "last_commit": "2026-09-04T08:51:35Z",
+                "open_issues": 439,
                 "owner": "recharts",
                 "repo": "recharts",
-                "stars": 27536,
+                "stars": 27538,
                 "topics": [
                   "chart",
                   "charting-library",
@@ -1242,7 +1242,7 @@
                 "open_issues": 50,
                 "owner": "plouc",
                 "repo": "nivo",
-                "stars": 14091,
+                "stars": 14092,
                 "topics": [
                   "canvas",
                   "charts",
@@ -1298,7 +1298,7 @@
                 "open_issues": 343,
                 "owner": "uber",
                 "repo": "react-vis",
-                "stars": 8787,
+                "stars": 8786,
                 "topics": [
                   "chart",
                   "charting-library",
@@ -1322,8 +1322,8 @@
                 "id": 63965783,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-02T19:41:01Z",
-                "open_issues": 892,
+                "last_commit": "2026-09-03T19:41:09Z",
+                "open_issues": 891,
                 "owner": "swimlane",
                 "repo": "ngx-charts",
                 "stars": 4363,
@@ -2730,11 +2730,11 @@
             "id": 26066727,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-03T08:42:00Z",
-            "open_issues": 1764,
+            "last_commit": "2026-09-04T09:02:41Z",
+            "open_issues": 1765,
             "owner": "mermaid-js",
             "repo": "mermaid",
-            "stars": 90054,
+            "stars": 90070,
             "topics": [
               "diagrams",
               "diagrams-as-code",
@@ -3119,7 +3119,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T09:13:26.694Z",
+    "last_updated": "2026-09-04T09:04:52.601Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of D3 libraries, plugins and utilities",
