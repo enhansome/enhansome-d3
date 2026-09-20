@@ -1,6 +1,6 @@
 # Awesome D3 with stars
 
-This list keeps track of interesting [D3js](http://d3js.org) libraries, plugins and utilities. <br />We decided not to list tutorials, resources or concepts here, because there is already a **[very good list of readings](https://github.com/mbostock/d3/wiki/Tutorials) ⭐ 113,747 | 🐛 19 | 🌐 Shell | 📅 2026-05-28** out there you can check out and contribute to.
+This list keeps track of interesting [D3js](http://d3js.org) libraries, plugins and utilities. <br />We decided not to list tutorials, resources or concepts here, because there is already a **[very good list of readings](https://github.com/mbostock/d3/wiki/Tutorials) ⭐ 113,745 | 🐛 19 | 🌐 Shell | 📅 2026-05-28** out there you can check out and contribute to.
 
 Curators: [Moritz Klack](https://twitter.com/moklick) and [Christopher Möller](https://twitter.com/chrtze) of [webkid.io](http://www.webkid.io)
 
@@ -8,18 +8,18 @@ You can also explore the list with our interactive [D3 Discovery](https://d3-dis
 
 ## Charts
 
-* [plotly.js](https://github.com/plotly/plotly.js/) ⭐ 18,338 | 🐛 778 | 🌐 JavaScript | 📅 2026-09-17 - High level charting library \[scatter, line, bar, pie, box plot, histogram, heatmap]
-* [vega](https://github.com/vega/vega) ⭐ 11,991 | 🐛 470 | 🌐 JavaScript | 📅 2026-09-11 - A visualization grammar
-* [c3](https://github.com/c3js/c3) ⭐ 9,350 | 🐛 771 | 🌐 JavaScript | 📅 2026-09-14 - Reusable chart library \[line, spline, step, area, stacked, bar, pie, donut]
+* [plotly.js](https://github.com/plotly/plotly.js/) ⭐ 18,337 | 🐛 779 | 🌐 JavaScript | 📅 2026-09-17 - High level charting library \[scatter, line, bar, pie, box plot, histogram, heatmap]
+* [vega](https://github.com/vega/vega) ⭐ 11,992 | 🐛 470 | 🌐 JavaScript | 📅 2026-09-11 - A visualization grammar
+* [c3](https://github.com/c3js/c3) ⭐ 9,351 | 🐛 771 | 🌐 JavaScript | 📅 2026-09-14 - Reusable chart library \[line, spline, step, area, stacked, bar, pie, donut]
 * [dc.js](https://github.com/dc-js/dc.js) ⭐ 7,429 | 🐛 411 | 🌐 JavaScript | 📅 2024-07-31 - For heavy amounts of data
 * [metrics-graphics](https://github.com/metricsgraphics/metrics-graphics) ⭐ 7,395 | 🐛 131 | 🌐 TypeScript | 📅 2022-05-31 - Optimized for visualizing time-series data \[line, scatter, area]
 * [nvd3](https://github.com/novus/nvd3) ⭐ 7,229 | 🐛 565 | 🌐 JavaScript | 📅 2023-09-15 - Re-usable charts and chart components \[box plot, buttlet, candlestick, line, bar, pie, scatter, sparkline]
 * [rickshaw](https://github.com/shutterstock/rickshaw) ⭐ 6,503 | 🐛 203 | 🌐 JavaScript | 📅 2025-01-17 - Toolkit for creating interactive real-time graphs \[line, scatter, bar]
-* [billboard.js](https://github.com/naver/billboard.js) ⭐ 6,010 | 🐛 149 | 🌐 TypeScript | 📅 2026-09-17 - Re-usable chart library \[bar, line, area, donut, pie, step, spline]
+* [billboard.js](https://github.com/naver/billboard.js) ⭐ 6,011 | 🐛 149 | 🌐 TypeScript | 📅 2026-09-17 - Re-usable chart library \[bar, line, area, donut, pie, step, spline]
 * [vega-lite](https://github.com/vega/vega-lite) ⭐ 5,493 | 🐛 820 | 🌐 TypeScript | 📅 2026-09-10 - A high-level grammar of interactive graphics
 * [cubism](https://github.com/square/cubism) ⭐ 4,926 | 🐛 42 | 🌐 JavaScript | 📅 2025-04-01 - Time series visualization
-* [britecharts](https://github.com/britecharts/britecharts) ⭐ 3,715 | 🐛 1 | 🌐 JavaScript | 📅 2026-09-15 - Client-side reusable charting library \[bar, line, donut, sparkline, step]
-* [plottable](https://github.com/palantir/plottable) ⭐ 3,120 | 🐛 332 | 🌐 TypeScript | 📅 2025-09-08 - Flexible, interactive charts for the web \[area, bar, line, pie, scatter, stacked]
+* [britecharts](https://github.com/britecharts/britecharts) ⭐ 3,715 | 🐛 1 | 🌐 JavaScript | 📅 2026-09-19 - Client-side reusable charting library \[bar, line, donut, sparkline, step]
+* [plottable](https://github.com/palantir/plottable) ⭐ 3,122 | 🐛 332 | 🌐 TypeScript | 📅 2025-09-08 - Flexible, interactive charts for the web \[area, bar, line, pie, scatter, stacked]
 * [dagre-d3](https://github.com/dagrejs/dagre-d3) ⭐ 2,963 | 🐛 217 | 🌐 JavaScript | 📅 2024-03-13 - Layout directed graphs on the client-side
 * [mpld3](https://github.com/mpld3/mpld3) ⭐ 2,412 | 🐛 232 | 🌐 Jupyter Notebook | 📅 2026-01-02 - Export matplotlib graphics to work in the Browser
 * [WebCola](https://github.com/tgdwyer/WebCola) ⭐ 2,097 | 🐛 112 | 🌐 TypeScript | 📅 2026-04-30 - Layout for graph visualization and exploration
@@ -44,7 +44,7 @@ You can also explore the list with our interactive [D3 Discovery](https://d3-dis
 * [vega-lite-api](https://github.com/vega/vega-lite-api) ⭐ 220 | 🐛 14 | 🌐 JavaScript | 📅 2026-09-03 - A JavaScript API for Vega-Lite.
 * [d3-bar](https://github.com/tj/d3-bar) ⭐ 174 | 🐛 3 | 🌐 JavaScript | 📅 2019-04-30 - Bar chart
 * [micropolar](https://github.com/biovisualize/micropolar/) ⭐ 125 | 🐛 13 | 🌐 JavaScript | 📅 2024-05-25 - A polar chart library
-* [d3-x3d](https://github.com/jamesleesaunders/d3-x3d) ⭐ 119 | 🐛 19 | 🌐 JavaScript | 📅 2026-05-09 - Data Driven 3D Charts with D3 and X3D \[bubble, bar, surfacearea, scatterplot, area]
+* [d3-x3d](https://github.com/jamesleesaunders/d3-x3d) ⭐ 119 | 🐛 13 | 🌐 JavaScript | 📅 2026-09-19 - Data Driven 3D Charts with D3 and X3D \[bubble, bar, surfacearea, scatterplot, area]
 * [d3-gridding](https://github.com/romsson/d3-gridding) ⭐ 105 | 🐛 13 | 🌐 JavaScript | 📅 2026-05-06 - Chart mockups using grids
 * [d3-message-sequence](https://github.com/koudelka/d3-message-sequence) ⭐ 102 | 🐛 2 | 📅 2018-06-21 - A dynamic/static message sequence chart
 * [d2b](https://github.com/d2bjs/d2b) ⭐ 96 | 🐛 22 | 🌐 JavaScript | 📅 2022-12-03 - Chart library for axis, pie, sankey, sunburst charts
@@ -58,14 +58,14 @@ You can also explore the list with our interactive [D3 Discovery](https://d3-dis
 
 ##### Third Party
 
-* [recharts](https://github.com/recharts/recharts) ⭐ 27,568 | 🐛 447 | 🌐 TypeScript | 📅 2026-09-19 - Re-designed charting library built with React
-* [vx](https://github.com/hshoff/vx) ⭐ 21,056 | 🐛 151 | 🌐 TypeScript | 📅 2026-06-22 - Visualization components for React \[bar, line, scatter, stacked, area, pattern, heatmap, pie, radial, map, geo]
-* [nivo](https://github.com/plouc/nivo) ⭐ 14,099 | 🐛 51 | 🌐 TypeScript | 📅 2026-07-21 - Dataviz components for React with isomorphic ability \[bar, line, area, bubble, chord, heatmap]
-* [victory](https://github.com/FormidableLabs/victory) ⭐ 11,240 | 🐛 91 | 🌐 TypeScript | 📅 2025-12-19 - Composable React components for building visualizations \[area, bar, candlestick, pie, line, scatter, voronoi]
+* [recharts](https://github.com/recharts/recharts) ⭐ 27,573 | 🐛 447 | 🌐 TypeScript | 📅 2026-09-19 - Re-designed charting library built with React
+* [vx](https://github.com/hshoff/vx) ⭐ 21,055 | 🐛 151 | 🌐 TypeScript | 📅 2026-06-22 - Visualization components for React \[bar, line, scatter, stacked, area, pattern, heatmap, pie, radial, map, geo]
+* [nivo](https://github.com/plouc/nivo) ⭐ 14,100 | 🐛 51 | 🌐 TypeScript | 📅 2026-07-21 - Dataviz components for React with isomorphic ability \[bar, line, area, bubble, chord, heatmap]
+* [victory](https://github.com/FormidableLabs/victory) ⭐ 11,241 | 🐛 91 | 🌐 TypeScript | 📅 2025-12-19 - Composable React components for building visualizations \[area, bar, candlestick, pie, line, scatter, voronoi]
 * [react-vis](https://github.com/uber/react-vis) ⭐ 8,786 | 🐛 343 | 🌐 JavaScript | 📅 2024-12-18 - A collection of react components to render visualizations \[area, bar, heatmap, line, scatter]
 * [ngx-charts](https://github.com/swimlane/ngx-charts) ⭐ 4,362 | 🐛 891 | 🌐 TypeScript | 📅 2026-09-03 - Chart framework for Angular \[bar, pie, line, area, polar, stacked, bubble]
-* [react-stockcharts](https://github.com/rrag/react-stockcharts) ⭐ 4,016 | 🐛 137 | 🌐 JavaScript | 📅 2023-03-09 - Highly customizable stock charts \[area, line, scatter, bubble, bar, stacked, candlestick]
-* [semiotic](https://github.com/nteract/semiotic) ⭐ 2,706 | 🐛 41 | 🌐 TypeScript | 📅 2026-09-19 - A data visualization framework combining React & D3 \[scatter, line, area]
+* [react-stockcharts](https://github.com/rrag/react-stockcharts) ⭐ 4,015 | 🐛 137 | 🌐 JavaScript | 📅 2023-03-09 - Highly customizable stock charts \[area, line, scatter, bubble, bar, stacked, candlestick]
+* [semiotic](https://github.com/nteract/semiotic) ⭐ 2,706 | 🐛 40 | 🌐 TypeScript | 📅 2026-09-19 - A data visualization framework combining React & D3 \[scatter, line, area]
 * [Layer Cake](https://github.com/mhkeller/layercake) ⭐ 1,793 | 🐛 1 | 🌐 Svelte | 📅 2026-09-09 - A graphics framework built on top of Svelte.
 * [react-d3-components](https://github.com/codesuki/react-d3-components) ⭐ 1,614 | 🐛 62 | 🌐 JavaScript | 📅 2022-01-11 - D3 Components \[bar, stacked, scatter, line, area, pie]
 * [react-d3-library](https://github.com/react-d3-library/react-d3-library) ⭐ 1,534 | 🐛 22 | 🌐 JavaScript | 📅 2021-03-04 - Library to use D3 in React \[area, bar, line, pie, scatter]
@@ -94,7 +94,7 @@ You can also explore the list with our interactive [D3 Discovery](https://d3-dis
 
 ##### Third Party
 
-* [react-simple-maps](https://github.com/zcreativelabs/react-simple-maps) ⭐ 3,318 | 🐛 170 | 🌐 TypeScript | 📅 2026-09-12 - An SVG mapping component library for React, built on top of d3-geo \[map, geo]
+* [react-simple-maps](https://github.com/zcreativelabs/react-simple-maps) ⭐ 3,323 | 🐛 170 | 🌐 TypeScript | 📅 2026-09-12 - An SVG mapping component library for React, built on top of d3-geo \[map, geo]
 * [leaflet-d3](https://github.com/Asymmetrik/leaflet-d3) ⭐ 271 | 🐛 5 | 🌐 JavaScript | 📅 2026-09-13 - Collection of plugins for using D3 with Leaflet \[map, geo]
 * [Wikimaps-D3js Atlas](https://github.com/WikimapsAtlas/WikimapsAtlas-generator) ⭐ 47 | 🐛 25 | 🌐 JavaScript | 📅 2024-10-14 - CLI to generate raster, topojson and svg maps \[map, geo]
 
@@ -132,13 +132,13 @@ You can also explore the list with our interactive [D3 Discovery](https://d3-dis
 
 ## Miscellaneous
 
-* [mermaid](https://github.com/knsv/mermaid) ⭐ 90,303 | 🐛 1,786 | 🌐 TypeScript | 📅 2026-09-18 - Generation of diagrams and flowcharts from text in a markdown style
+* [mermaid](https://github.com/knsv/mermaid) ⭐ 90,312 | 🐛 1,790 | 🌐 TypeScript | 📅 2026-09-18 - Generation of diagrams and flowcharts from text in a markdown style
 * [d3-cloud](https://github.com/jasondavies/d3-cloud) ⭐ 3,952 | 🐛 2 | 🌐 JavaScript | 📅 2026-03-09 - Word clouds
 * [codeflower](https://github.com/fzaninotto/CodeFlower) ⭐ 711 | 🐛 19 | 🌐 JavaScript | 📅 2025-09-23 - Bird's eye view of the whole code
 * [graph-scroll](https://github.com/1wheel/graph-scroll) ⭐ 519 | 🐛 2 | 🌐 HTML | 📅 2020-03-21 - Simple scrolling events
 * [d3.sketchy](https://github.com/sebastian-meier/d3.sketchy) ⭐ 247 | 🐛 4 | 🌐 JavaScript | 📅 2015-08-03 - Creates sketchy backgrounds, shapes and lines
-* [twitter-sentiment-visualisation](https://github.com/Lissy93/twitter-sentiment-visualisation) ⭐ 237 | 🐛 0 | 🌐 CoffeeScript | 📅 2023-11-04 - A series of D3.js charts showing realtime sentiment of Twitter data
-* [treeviz](https://github.com/PierreCapo/treeviz) ⭐ 174 | 🐛 10 | 🌐 TypeScript | 📅 2024-04-03 - Create customizable trees from json data
+* [twitter-sentiment-visualisation](https://github.com/Lissy93/twitter-sentiment-visualisation) ⭐ 238 | 🐛 0 | 🌐 CoffeeScript | 📅 2023-11-04 - A series of D3.js charts showing realtime sentiment of Twitter data
+* [treeviz](https://github.com/PierreCapo/treeviz) ⭐ 175 | 🐛 10 | 🌐 TypeScript | 📅 2024-04-03 - Create customizable trees from json data
 * [d3-context-menu](https://github.com/patorjk/d3-context-menu) ⭐ 138 | 🐛 16 | 🌐 CSS | 📅 2021-01-09 - Helper to create context-menus
 * [d3-force-reuse](https://github.com/twosixlabs/d3-force-reuse) ⭐ 131 | 🐛 0 | 🌐 JavaScript | 📅 2021-07-29 - Faster force-directed graph layouts by reusing force approximations
 * [d3plus-text](https://github.com/d3plus/d3plus-text) ⚠️ Archived - Smart SVG text box with line wrapping and automatic font scaling
@@ -177,4 +177,4 @@ You can also explore the list with our interactive [D3 Discovery](https://d3-dis
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-20._
