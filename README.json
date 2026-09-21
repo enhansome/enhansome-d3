@@ -16,7 +16,7 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-09-17T22:40:12Z",
-            "open_issues": 779,
+            "open_issues": 780,
             "owner": "plotly",
             "repo": "plotly.js",
             "stars": 18337,
@@ -50,7 +50,7 @@
             "open_issues": 470,
             "owner": "vega",
             "repo": "vega",
-            "stars": 11992,
+            "stars": 11994,
             "topics": [
               "canvas",
               "d3",
@@ -132,7 +132,7 @@
             "open_issues": 131,
             "owner": "metricsgraphics",
             "repo": "metrics-graphics",
-            "stars": 7395,
+            "stars": 7396,
             "topics": []
           },
           "first_seen": "2026-08-28T16:56:55.200Z"
@@ -230,7 +230,7 @@
             "open_issues": 820,
             "owner": "vega",
             "repo": "vega-lite",
-            "stars": 5493,
+            "stars": 5494,
             "topics": [
               "charts",
               "declarative-language",
@@ -277,8 +277,8 @@
             "id": 35912494,
             "language": "JavaScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-19T21:52:37Z",
-            "open_issues": 1,
+            "last_commit": "2026-09-21T06:11:57Z",
+            "open_issues": 3,
             "owner": "britecharts",
             "repo": "britecharts",
             "stars": 3715,
@@ -312,7 +312,7 @@
             "open_issues": 332,
             "owner": "palantir",
             "repo": "plottable",
-            "stars": 3122,
+            "stars": 3121,
             "topics": [
               "chart",
               "chart-component",
@@ -386,7 +386,7 @@
             "open_issues": 112,
             "owner": "tgdwyer",
             "repo": "WebCola",
-            "stars": 2097,
+            "stars": 2098,
             "topics": []
           },
           "first_seen": "2026-08-28T16:56:55.200Z"
@@ -449,7 +449,7 @@
             "open_issues": 3,
             "owner": "erikbrinkman",
             "repo": "d3-dag",
-            "stars": 1519,
+            "stars": 1518,
             "topics": [
               "d3",
               "dag",
@@ -715,7 +715,7 @@
             "id": 21878937,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-17T14:34:17Z",
+            "last_commit": "2026-09-21T10:04:03Z",
             "open_issues": 18,
             "owner": "jakezatecky",
             "repo": "d3-funnel",
@@ -1176,11 +1176,11 @@
                 "id": 40345658,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-19T20:47:38Z",
+                "last_commit": "2026-09-20T18:55:23Z",
                 "open_issues": 447,
                 "owner": "recharts",
                 "repo": "recharts",
-                "stars": 27573,
+                "stars": 27574,
                 "topics": [
                   "chart",
                   "charting-library",
@@ -1212,7 +1212,7 @@
                 "open_issues": 151,
                 "owner": "airbnb",
                 "repo": "visx",
-                "stars": 21055,
+                "stars": 21056,
                 "topics": [
                   "chart",
                   "d3",
@@ -1374,7 +1374,7 @@
                 "id": 85225460,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-19T22:05:43Z",
+                "last_commit": "2026-09-20T21:49:42Z",
                 "open_issues": 40,
                 "owner": "nteract",
                 "repo": "semiotic",
@@ -1407,7 +1407,7 @@
                 "open_issues": 1,
                 "owner": "mhkeller",
                 "repo": "layercake",
-                "stars": 1793,
+                "stars": 1792,
                 "topics": [
                   "cake",
                   "charts",
@@ -1986,7 +1986,7 @@
                 "open_issues": 170,
                 "owner": "zcreativelabs",
                 "repo": "react-simple-maps",
-                "stars": 3323,
+                "stars": 3348,
                 "topics": [
                   "choropleth",
                   "choropleth-map",
@@ -2745,10 +2745,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-09-18T10:41:27Z",
-            "open_issues": 1790,
+            "open_issues": 1796,
             "owner": "mermaid-js",
             "repo": "mermaid",
-            "stars": 90312,
+            "stars": 90337,
             "topics": [
               "diagrams",
               "diagrams-as-code",
@@ -3133,7 +3133,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T09:28:22.291Z",
+    "last_updated": "2026-09-21T10:13:37.796Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of D3 libraries, plugins and utilities",
