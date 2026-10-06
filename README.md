@@ -1,6 +1,6 @@
 # Awesome D3 with stars
 
-This list keeps track of interesting [D3js](http://d3js.org) libraries, plugins and utilities. <br />We decided not to list tutorials, resources or concepts here, because there is already a **[very good list of readings](https://github.com/mbostock/d3/wiki/Tutorials) ⭐ 113,811 | 🐛 19 | 🌐 Shell | 📅 2026-05-28** out there you can check out and contribute to.
+This list keeps track of interesting [D3js](http://d3js.org) libraries, plugins and utilities. <br />We decided not to list tutorials, resources or concepts here, because there is already a **[very good list of readings](https://github.com/mbostock/d3/wiki/Tutorials) ⭐ 113,812 | 🐛 19 | 🌐 Shell | 📅 2026-05-28** out there you can check out and contribute to.
 
 Curators: [Moritz Klack](https://twitter.com/moklick) and [Christopher Möller](https://twitter.com/chrtze) of [webkid.io](http://www.webkid.io)
 
@@ -132,7 +132,7 @@ You can also explore the list with our interactive [D3 Discovery](https://d3-dis
 
 ## Miscellaneous
 
-* [mermaid](https://github.com/knsv/mermaid) ⭐ 90,563 | 🐛 1,855 | 🌐 TypeScript | 📅 2026-10-06 - Generation of diagrams and flowcharts from text in a markdown style
+* [mermaid](https://github.com/knsv/mermaid) ⭐ 90,563 | 🐛 1,856 | 🌐 TypeScript | 📅 2026-10-06 - Generation of diagrams and flowcharts from text in a markdown style
 * [d3-cloud](https://github.com/jasondavies/d3-cloud) ⭐ 3,951 | 🐛 2 | 🌐 JavaScript | 📅 2026-03-09 - Word clouds
 * [codeflower](https://github.com/fzaninotto/CodeFlower) ⭐ 711 | 🐛 19 | 🌐 JavaScript | 📅 2025-09-23 - Bird's eye view of the whole code
 * [graph-scroll](https://github.com/1wheel/graph-scroll) ⭐ 517 | 🐛 2 | 🌐 HTML | 📅 2020-03-21 - Simple scrolling events
