@@ -16,10 +16,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-10-08T14:18:55Z",
-            "open_issues": 805,
+            "open_issues": 806,
             "owner": "plotly",
             "repo": "plotly.js",
-            "stars": 18356,
+            "stars": 18359,
             "topics": [
               "charting-library",
               "charts",
@@ -50,7 +50,7 @@
             "open_issues": 475,
             "owner": "vega",
             "repo": "vega",
-            "stars": 12015,
+            "stars": 12018,
             "topics": [
               "canvas",
               "d3",
@@ -78,7 +78,7 @@
             "open_issues": 771,
             "owner": "c3js",
             "repo": "c3",
-            "stars": 9351,
+            "stars": 9352,
             "topics": [
               "chart",
               "d3",
@@ -202,7 +202,7 @@
             "open_issues": 76,
             "owner": "naver",
             "repo": "billboard.js",
-            "stars": 6015,
+            "stars": 6016,
             "topics": [
               "canvas",
               "charting-library",
@@ -230,7 +230,7 @@
             "open_issues": 815,
             "owner": "vega",
             "repo": "vega-lite",
-            "stars": 5511,
+            "stars": 5512,
             "topics": [
               "charts",
               "declarative-language",
@@ -277,8 +277,8 @@
             "id": 35912494,
             "language": "HTML",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-10T21:37:41Z",
-            "open_issues": 1,
+            "last_commit": "2026-10-12T08:25:27Z",
+            "open_issues": 2,
             "owner": "britecharts",
             "repo": "britecharts",
             "stars": 3719,
@@ -424,8 +424,8 @@
             "id": 7512098,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-11T02:47:11Z",
-            "open_issues": 70,
+            "last_commit": "2026-10-11T15:47:29Z",
+            "open_issues": 81,
             "owner": "d3plus",
             "repo": "d3plus",
             "stars": 1614,
@@ -506,7 +506,7 @@
             "open_issues": 214,
             "owner": "d3fc",
             "repo": "d3fc",
-            "stars": 1351,
+            "stars": 1350,
             "topics": [
               "chart",
               "d3",
@@ -1176,11 +1176,11 @@
                 "id": 40345658,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-11T10:18:51Z",
-                "open_issues": 460,
+                "last_commit": "2026-10-12T05:20:59Z",
+                "open_issues": 459,
                 "owner": "recharts",
                 "repo": "recharts",
-                "stars": 27624,
+                "stars": 27627,
                 "topics": [
                   "chart",
                   "charting-library",
@@ -1212,7 +1212,7 @@
                 "open_issues": 156,
                 "owner": "airbnb",
                 "repo": "visx",
-                "stars": 21076,
+                "stars": 21074,
                 "topics": [
                   "chart",
                   "d3",
@@ -1242,7 +1242,7 @@
                 "open_issues": 53,
                 "owner": "plouc",
                 "repo": "nivo",
-                "stars": 14108,
+                "stars": 14106,
                 "topics": [
                   "canvas",
                   "charts",
@@ -2348,6 +2348,35 @@
         },
         {
           "node_type": "item",
+          "title": "d3-component",
+          "description": "Lightweight component abstraction",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A lightweight component abstraction for D3.js.",
+            "homepage": null,
+            "id": 41185841,
+            "language": "JavaScript",
+            "license": "BSD-3-Clause",
+            "last_commit": "2017-12-18T23:21:28Z",
+            "open_issues": 6,
+            "owner": "curran",
+            "repo": "d3-component",
+            "stars": 111,
+            "topics": [
+              "component",
+              "data-visualization",
+              "html5",
+              "interaction",
+              "interactive-visualizations",
+              "user-interface",
+              "web-application"
+            ]
+          },
+          "first_seen": "2026-08-28T16:56:55.200Z"
+        },
+        {
+          "node_type": "item",
           "title": "d3-ring-note",
           "description": "Plugin for placing circle and text annotations",
           "children": [],
@@ -2364,35 +2393,6 @@
             "repo": "d3-ring-note",
             "stars": 111,
             "topics": []
-          },
-          "first_seen": "2026-08-28T16:56:55.200Z"
-        },
-        {
-          "node_type": "item",
-          "title": "d3-component",
-          "description": "Lightweight component abstraction",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A lightweight component abstraction for D3.js.",
-            "homepage": null,
-            "id": 41185841,
-            "language": "JavaScript",
-            "license": "BSD-3-Clause",
-            "last_commit": "2017-12-18T23:21:28Z",
-            "open_issues": 6,
-            "owner": "curran",
-            "repo": "d3-component",
-            "stars": 110,
-            "topics": [
-              "component",
-              "data-visualization",
-              "html5",
-              "interaction",
-              "interactive-visualizations",
-              "user-interface",
-              "web-application"
-            ]
           },
           "first_seen": "2026-08-28T16:56:55.200Z"
         },
@@ -2744,11 +2744,11 @@
             "id": 26066727,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-11T04:24:08Z",
-            "open_issues": 1863,
+            "last_commit": "2026-10-12T11:52:39Z",
+            "open_issues": 1869,
             "owner": "mermaid-js",
             "repo": "mermaid",
-            "stars": 90606,
+            "stars": 90626,
             "topics": [
               "diagrams",
               "diagrams-as-code",
@@ -3133,7 +3133,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T11:02:16.576Z",
+    "last_updated": "2026-10-12T12:28:29.350Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of D3 libraries, plugins and utilities",
