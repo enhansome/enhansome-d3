@@ -16,7 +16,7 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-11-25T22:48:11Z",
-            "open_issues": 823,
+            "open_issues": 824,
             "owner": "plotly",
             "repo": "plotly.js",
             "stars": 18391,
@@ -50,7 +50,7 @@
             "open_issues": 507,
             "owner": "vega",
             "repo": "vega",
-            "stars": 12052,
+            "stars": 12054,
             "topics": [
               "canvas",
               "d3",
@@ -78,7 +78,7 @@
             "open_issues": 772,
             "owner": "c3js",
             "repo": "c3",
-            "stars": 9351,
+            "stars": 9352,
             "topics": [
               "chart",
               "d3",
@@ -198,11 +198,11 @@
             "id": 93701214,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-26T03:53:43Z",
+            "last_commit": "2026-11-27T00:46:32Z",
             "open_issues": 76,
             "owner": "naver",
             "repo": "billboard.js",
-            "stars": 6026,
+            "stars": 6027,
             "topics": [
               "canvas",
               "charting-library",
@@ -230,7 +230,7 @@
             "open_issues": 837,
             "owner": "vega",
             "repo": "vega-lite",
-            "stars": 5566,
+            "stars": 5567,
             "topics": [
               "charts",
               "declarative-language",
@@ -281,7 +281,7 @@
             "open_issues": 0,
             "owner": "britecharts",
             "repo": "britecharts",
-            "stars": 3722,
+            "stars": 3721,
             "topics": [
               "a11y",
               "accessibility",
@@ -437,7 +437,7 @@
             "open_issues": 3,
             "owner": "d3plus",
             "repo": "d3plus",
-            "stars": 1610,
+            "stars": 1609,
             "topics": []
           },
           "first_seen": "2026-08-28T16:56:55.200Z"
@@ -458,7 +458,7 @@
             "open_issues": 3,
             "owner": "erikbrinkman",
             "repo": "d3-dag",
-            "stars": 1528,
+            "stars": 1529,
             "topics": [
               "d3",
               "dag",
@@ -566,7 +566,7 @@
             "open_issues": 45,
             "owner": "benfred",
             "repo": "venn.js",
-            "stars": 1092,
+            "stars": 1091,
             "topics": [
               "d3",
               "euler-diagram",
@@ -714,6 +714,32 @@
         },
         {
           "node_type": "item",
+          "title": "d3-funnel",
+          "description": "A funnel and pyramid chart library",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A JavaScript library for rendering funnel charts using the D3.js framework.",
+            "homepage": "http://jakezatecky.github.io/d3-funnel/",
+            "id": 21878937,
+            "language": "JavaScript",
+            "license": "MIT",
+            "last_commit": "2026-11-23T10:03:35Z",
+            "open_issues": 7,
+            "owner": "jakezatecky",
+            "repo": "d3-funnel",
+            "stars": 335,
+            "topics": [
+              "chart",
+              "d3",
+              "javascript",
+              "visualization"
+            ]
+          },
+          "first_seen": "2026-08-28T16:56:55.200Z"
+        },
+        {
+          "node_type": "item",
           "title": "D3xter",
           "description": "Straight forward plotting [plot, timeline, bar, histogram, pie]",
           "children": [],
@@ -730,32 +756,6 @@
             "repo": "D3xter",
             "stars": 335,
             "topics": []
-          },
-          "first_seen": "2026-08-28T16:56:55.200Z"
-        },
-        {
-          "node_type": "item",
-          "title": "d3-funnel",
-          "description": "A funnel and pyramid chart library",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A JavaScript library for rendering funnel charts using the D3.js framework.",
-            "homepage": "http://jakezatecky.github.io/d3-funnel/",
-            "id": 21878937,
-            "language": "JavaScript",
-            "license": "MIT",
-            "last_commit": "2026-11-23T10:03:35Z",
-            "open_issues": 7,
-            "owner": "jakezatecky",
-            "repo": "d3-funnel",
-            "stars": 334,
-            "topics": [
-              "chart",
-              "d3",
-              "javascript",
-              "visualization"
-            ]
           },
           "first_seen": "2026-08-28T16:56:55.200Z"
         },
@@ -1185,11 +1185,11 @@
                 "id": 40345658,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-26T14:20:04Z",
-                "open_issues": 484,
+                "last_commit": "2026-11-27T14:15:04Z",
+                "open_issues": 478,
                 "owner": "recharts",
                 "repo": "recharts",
-                "stars": 27765,
+                "stars": 27772,
                 "topics": [
                   "chart",
                   "charting-library",
@@ -1221,7 +1221,7 @@
                 "open_issues": 170,
                 "owner": "airbnb",
                 "repo": "visx",
-                "stars": 21118,
+                "stars": 21119,
                 "topics": [
                   "chart",
                   "d3",
@@ -1251,7 +1251,7 @@
                 "open_issues": 75,
                 "owner": "plouc",
                 "repo": "nivo",
-                "stars": 14142,
+                "stars": 14144,
                 "topics": [
                   "canvas",
                   "charts",
@@ -1278,10 +1278,10 @@
                 "language": "HTML",
                 "license": "NOASSERTION",
                 "last_commit": "2026-11-20T23:33:22Z",
-                "open_issues": 94,
+                "open_issues": 95,
                 "owner": "FormidableLabs",
                 "repo": "victory",
-                "stars": 11262,
+                "stars": 11263,
                 "topics": [
                   "charts",
                   "d3",
@@ -1307,7 +1307,7 @@
                 "open_issues": 343,
                 "owner": "uber",
                 "repo": "react-vis",
-                "stars": 8780,
+                "stars": 8781,
                 "topics": [
                   "chart",
                   "charting-library",
@@ -1366,7 +1366,7 @@
                 "open_issues": 137,
                 "owner": "rrag",
                 "repo": "react-stockcharts",
-                "stars": 4014,
+                "stars": 4013,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:56:55.200Z"
@@ -1416,7 +1416,7 @@
                 "open_issues": 2,
                 "owner": "mhkeller",
                 "repo": "layercake",
-                "stars": 1798,
+                "stars": 1799,
                 "topics": [
                   "cake",
                   "charts",
@@ -1783,12 +1783,12 @@
           "repo_info": {
             "archived": false,
             "description": "Clipping and geometric operations for spherical polygons.",
-            "homepage": "https://d3.observablehq.cloud/d3-geo-polygon/",
+            "homepage": "https://d3.github.io/d3-geo-polygon/",
             "id": 103437532,
             "language": "JavaScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-12T15:15:02Z",
-            "open_issues": 8,
+            "last_commit": "2026-11-27T13:19:26Z",
+            "open_issues": 7,
             "owner": "d3",
             "repo": "d3-geo-polygon",
             "stars": 127,
@@ -2090,7 +2090,7 @@
             "open_issues": 21,
             "owner": "riccardoscalco",
             "repo": "textures",
-            "stars": 6089,
+            "stars": 6088,
             "topics": [
               "d3",
               "patterns",
@@ -2753,11 +2753,11 @@
             "id": 26066727,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-26T08:14:29Z",
+            "last_commit": "2026-11-27T13:52:02Z",
             "open_issues": 1994,
             "owner": "mermaid-js",
             "repo": "mermaid",
-            "stars": 91264,
+            "stars": 91284,
             "topics": [
               "diagrams",
               "diagrams-as-code",
@@ -2783,11 +2783,11 @@
             "id": 3390543,
             "language": "JavaScript",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-30T19:03:52Z",
+            "last_commit": "2026-11-27T09:55:07Z",
             "open_issues": 0,
             "owner": "jasondavies",
             "repo": "d3-cloud",
-            "stars": 3949,
+            "stars": 3950,
             "topics": [
               "d3",
               "layout-algorithm",
@@ -3142,7 +3142,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T14:30:17.220Z",
+    "last_updated": "2026-11-27T14:24:11.751Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of D3 libraries, plugins and utilities",
